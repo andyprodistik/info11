@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1764131713,
-      "updated": 1764135982,
+      "updated": 1764136004,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -47,9 +47,9 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINFORMATIKA KELAS XI \n\n\n  \n    Bagian materi 1 yang perlu dipelajari terlebih dahulu.\n\n\n  \n\n\n\n\n\n",
       "metadata": {
         "created": 1764131712,
-        "updated": 1764135981,
+        "updated": 1764136004,
         "published": true,
-        "hideInMenu": false,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 1,
         "videos": {},
