@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1764131713,
-      "updated": 1764135743,
+      "updated": 1764135783,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -99,16 +99,16 @@
     },
     {
       "id": "item-adf5c40e-b717-4e57-b770-ae4ca1ce3c81",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-adf5c40e-b717-4e57-b770-ae4ca1ce3c81/index.html",
       "slug": "kritis",
       "order": 0,
       "parent": "item-e4e98285-ac0a-4a5a-bbc3-e431e7a30ed6",
-      "title": "Page",
+      "title": "Berfikir Kritis dan Pengambilan Keputusan",
       "description": "\n  \n\n\nBerfikir Kritis dan Pengambilan Keputusan di Era Ini\n\n\n\nRevolusi Industri 4.0 telah memberikan dampak transformatif pada\n  bidang pendidikan, menjanjikan peningkatan akses, kecepatan, dan pemer",
       "metadata": {
         "created": 1764133808,
-        "updated": 1764135743,
+        "updated": 1764135783,
         "images": {},
         "videos": {},
         "theme": {
