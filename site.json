@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1764131713,
-      "updated": 1764135700,
+      "updated": 1764135743,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -47,7 +47,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINFORMATIKA KELAS XI \n\n\n  \n    Bagian materi 1 yang perlu dipelajari terlebih dahulu.\n\n\n  \n\n\n\n\n\n",
       "metadata": {
         "created": 1764131712,
-        "updated": 1764133709,
+        "updated": 1764135743,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -60,7 +60,8 @@
           "name": "Polaris - Flex",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
           "key": "polaris-flex-theme"
-        }
+        },
+        "status": ""
       }
     },
     {
@@ -74,7 +75,7 @@
       "description": "Berpikir Kritis dan Dampak Sosial Informatika\nRevolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas d",
       "metadata": {
         "created": 1764133718,
-        "updated": 1764135700,
+        "updated": 1764135743,
         "images": {},
         "videos": {},
         "theme": {
@@ -92,21 +93,22 @@
         "tags": "materi",
         "accentColor": "deep-orange",
         "icon": "av:fiber-new",
-        "image": "files/belajar.jpg"
+        "image": "files/belajar.jpg",
+        "status": ""
       }
     },
     {
       "id": "item-adf5c40e-b717-4e57-b770-ae4ca1ce3c81",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-adf5c40e-b717-4e57-b770-ae4ca1ce3c81/index.html",
       "slug": "kritis",
-      "order": 2,
-      "parent": null,
+      "order": 0,
+      "parent": "item-e4e98285-ac0a-4a5a-bbc3-e431e7a30ed6",
       "title": "Page",
       "description": "\n  \n\n\nBerfikir Kritis dan Pengambilan Keputusan di Era Ini\n\n\n\nRevolusi Industri 4.0 telah memberikan dampak transformatif pada\n  bidang pendidikan, menjanjikan peningkatan akses, kecepatan, dan pemer",
       "metadata": {
         "created": 1764133808,
-        "updated": 1764134105,
+        "updated": 1764135743,
         "images": {},
         "videos": {},
         "theme": {
@@ -123,21 +125,23 @@
         "tags": "kritis",
         "pageType": "content",
         "image": "files/coding.jpg",
-        "accentColor": "deep-orange"
+        "accentColor": "deep-orange",
+        "status": "",
+        "icon": "lrn:page"
       }
     },
     {
       "id": "item-7c6d0152-8cdd-473d-a17c-5a28a7e17564",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-7c6d0152-8cdd-473d-a17c-5a28a7e17564/index.html",
       "slug": "page-2",
-      "order": 3,
-      "parent": null,
+      "order": 1,
+      "parent": "item-e4e98285-ac0a-4a5a-bbc3-e431e7a30ed6",
       "title": "Page",
       "description": "Daftar 10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk\n  mengkaji penerapan informatika dalam pertanian:\n\n  Tujuan (Pur",
       "metadata": {
         "created": 1764133925,
-        "updated": 1764134056,
+        "updated": 1764135743,
         "images": {},
         "videos": {},
         "theme": {
@@ -155,7 +159,8 @@
         "icon": "av:hearing",
         "locked": false,
         "readtime": 1,
-        "image": "files/tani.jpg"
+        "image": "files/tani.jpg",
+        "status": ""
       }
     }
   ]
