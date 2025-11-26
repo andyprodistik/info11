@@ -1,0 +1,157 @@
+{
+  "id": "b5d31de2-9c76-4fd1-91f3-31c1540aeba5",
+  "title": "info11",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "name": "info11",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true,
+        "canonical": true
+      },
+      "created": 1764131713,
+      "updated": 1764134105,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "custom-info11-theme",
+      "path": "./custom/build/custom.es6.js",
+      "name": "CustomInfo11Theme"
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "11.0.5",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-90994303-b1b1-4e5f-8b51-2d62dbc49a12",
+      "indent": 0,
+      "location": "pages/item-90994303-b1b1-4e5f-8b51-2d62dbc49a12/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome to info11",
+      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINFORMATIKA KELAS XI \n\n\n  \n    Bagian materi 1 yang perlu dipelajari terlebih dahulu.\n\n\n  \n\n\n\n\n\n",
+      "metadata": {
+        "created": 1764131712,
+        "updated": 1764133709,
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {},
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        }
+      }
+    },
+    {
+      "id": "item-e4e98285-ac0a-4a5a-bbc3-e431e7a30ed6",
+      "indent": 0,
+      "location": "pages/item-e4e98285-ac0a-4a5a-bbc3-e431e7a30ed6/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "Berpikir Kritis dan Dampak Sosial Informatika\nRevolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas d",
+      "metadata": {
+        "created": 1764133718,
+        "updated": 1764133795,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-adf5c40e-b717-4e57-b770-ae4ca1ce3c81",
+      "indent": 0,
+      "location": "pages/item-adf5c40e-b717-4e57-b770-ae4ca1ce3c81/index.html",
+      "slug": "kritis",
+      "order": 2,
+      "parent": null,
+      "title": "Page",
+      "description": "\n  \n\n\nBerfikir Kritis dan Pengambilan Keputusan di Era Ini\n\n\n\nRevolusi Industri 4.0 telah memberikan dampak transformatif pada\n  bidang pendidikan, menjanjikan peningkatan akses, kecepatan, dan pemer",
+      "metadata": {
+        "created": 1764133808,
+        "updated": 1764134105,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "published": true,
+        "hideInMenu": true,
+        "locked": false,
+        "readtime": 7,
+        "tags": "kritis",
+        "pageType": "content",
+        "image": "files/coding.jpg",
+        "accentColor": "deep-orange"
+      }
+    },
+    {
+      "id": "item-7c6d0152-8cdd-473d-a17c-5a28a7e17564",
+      "indent": 0,
+      "location": "pages/item-7c6d0152-8cdd-473d-a17c-5a28a7e17564/index.html",
+      "slug": "page-2",
+      "order": 3,
+      "parent": null,
+      "title": "Page",
+      "description": "Daftar 10 Pertanyaan Berpikir Kritis (Elemen Berpikir)\nBerikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk\n  mengkaji penerapan informatika dalam pertanian:\n\n  Tujuan (Pur",
+      "metadata": {
+        "created": 1764133925,
+        "updated": 1764134056,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "tags": "kritis",
+        "accentColor": "deep-orange",
+        "icon": "av:hearing",
+        "locked": false,
+        "readtime": 1,
+        "image": "files/tani.jpg"
+      }
+    }
+  ]
+}

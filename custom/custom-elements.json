@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "readme": "",
+  "modules": [
+    {
+      "kind": "javascript-module",
+      "path": "src/custom-info11-theme.js",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "`CustomInfo11Theme`\n`CustomInfo11Theme based on modern flex design system`\n`This theme is an example of extending an existing theme component`",
+          "name": "CustomInfo11Theme",
+          "members": [
+            {
+              "kind": "method",
+              "name": "renderHeaderSlot",
+              "description": "Overload methods for customization of slots from the base class"
+            },
+            {
+              "kind": "method",
+              "name": "renderSideBar"
+            },
+            {
+              "kind": "method",
+              "name": "renderFooterContactInformation"
+            },
+            {
+              "kind": "method",
+              "name": "renderFooterSecondarySlot"
+            },
+            {
+              "kind": "method",
+              "name": "renderFooterPrimarySlot"
+            },
+            {
+              "kind": "field",
+              "name": "tag",
+              "static": true,
+              "description": "Store the tag name to make it easier to obtain directly.",
+              "readonly": true
+            }
+          ],
+          "superclass": {
+            "name": "PolarisFlexTheme",
+            "package": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js"
+          },
+          "tagName": "custom-info11-theme",
+          "customElement": true
+        }
+      ],
+      "exports": [
+        {
+          "kind": "custom-element-definition",
+          "declaration": {
+            "name": "CustomInfo11Theme",
+            "module": "src/custom-info11-theme.js"
+          }
+        },
+        {
+          "kind": "js",
+          "name": "CustomInfo11Theme",
+          "declaration": {
+            "name": "CustomInfo11Theme",
+            "module": "src/custom-info11-theme.js"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "javascript-module",
+      "path": "src/custom.js",
+      "declarations": [],
+      "exports": []
+    }
+  ]
+}
