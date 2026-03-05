@@ -67,7 +67,17 @@
           "terrible": false,
           "key": "polaris-flex-theme"
         },
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/user/info11/files/riset.jpg",
+            "fullUrl": "//home/user/info11/files/riset.jpg",
+            "url": "files/riset.jpg",
+            "type": "image/jpeg",
+            "name": "riset.jpg",
+            "size": 7302
+          }
+        ]
       }
     },
     {
