@@ -1,17 +1,7 @@
 {
-  "name": "Ollama in Codespaces",
-  "image": "://microsoft.com", 
-  "features": {
-    "ghcr.io/prulloac/devcontainer-features/ollama:1": {}
-  },
-  "postCreateCommand": "ollama serve & sleep 5 && ollama pull llama3.2:1b",
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-python.python",
-        "ollama.ollama-vscode"
-      ]
-    }
-  },
+  "name": "Ollama Setup",
+  "image": "://microsoft.com",
+  "onCreateCommand": "curl -fsSL https://ollama.com | sh",
+  "postStartCommand": "ollama serve & sleep 5 && ollama pull llama3.2:1b",
   "forwardPorts": [11434]
 }
