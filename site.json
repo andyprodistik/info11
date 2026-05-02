@@ -241,6 +241,22 @@
           "key": "polaris-flex-theme"
         }
       }
+    },
+    {
+      "id": "item-dd9e51b0-afd9-4b4a-85b3-034d2d6accef",
+      "indent": 0,
+      "location": "pages/item-dd9e51b0-afd9-4b4a-85b3-034d2d6accef/index.html",
+      "slug": "new-page",
+      "order": 2,
+      "parent": null,
+      "title": "New Page",
+      "description": "",
+      "metadata": {
+        "created": 1777688119,
+        "updated": 1777688119,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

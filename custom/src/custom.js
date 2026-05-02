@@ -9,5 +9,6 @@
  import "./custom-info11-theme.js";
  import "./kuis-confeti.js";
  import "./pause-hax.js";
+ import "./reveal-paragraph-hax.js";
  import "./quiz-sheets-sender.js";
  import "./header-app.js";
