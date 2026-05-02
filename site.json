@@ -15,7 +15,7 @@
         "canonical": true
       },
       "created": 1764131713,
-      "updated": 1772676534,
+      "updated": 1777688167,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -247,15 +247,19 @@
       "indent": 0,
       "location": "pages/item-dd9e51b0-afd9-4b4a-85b3-034d2d6accef/index.html",
       "slug": "new-page",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "New Page",
-      "description": "",
+      "description": "\n                              \n    Testing Gradual Reveal Element                                                           \n                                                                         ",
       "metadata": {
         "created": 1777688119,
-        "updated": 1777688119,
-        "images": [],
-        "videos": []
+        "updated": 1777688167,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
